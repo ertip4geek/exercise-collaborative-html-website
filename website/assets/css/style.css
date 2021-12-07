@@ -1,3 +1,17 @@
-body{
-    background: #BDBDBD;
+.bg-image{
+    background-image: url("https://images-ext-1.discordapp.net/external/b8uwNBUWmVTDTLwtCAUe4RG6nRxDMpNvDnAG1zRal3g/https/untappedcities.com/wp-content/uploads/2013/08/Hudson-River-Dredging-1-WTC-NYC-Harbor.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image-service{
+    background-image: url("https://picsum.photos/200");
+    width: 350px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row{
+    padding: 20px;
 }
