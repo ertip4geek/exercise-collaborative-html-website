@@ -4,7 +4,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.image-heading{
+    background-image: url("https://onepagewonder.vercel.app/website/assets/img/1.jpg");
+    width: 350px;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .image-service{
     background-image: url("https://picsum.photos/200");
     width: 350px;
